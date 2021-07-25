@@ -21,21 +21,12 @@
  * */
 
 #include <iostream>
-#include <cstdlib>
-#include <ctime>
-#include <vector>
 
-#include "components/packet.hpp"
-
-using namespace Network;
 using namespace std;
 
 int main(int argc, const char * argv[])
 {
-
-    Packet* NewPacket = new Packet();
-
-    cout << "Little Puffin is running!" << endl;
+    printf("This is cpp template");
 
     return 0;
 }

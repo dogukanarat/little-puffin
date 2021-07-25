@@ -1,5 +1,6 @@
 # Little Puffin Project
-Component-based cpp embedded framework
+
+Cpp Project Template
 
 ## How To Install
 
