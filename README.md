@@ -1,6 +1,6 @@
-# Little Puffin Project
+# Little Puffin Template Project
 
-Cpp Project Template
+CMake project template
 
 ## How To Install
 
